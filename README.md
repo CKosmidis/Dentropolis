@@ -16,18 +16,18 @@
 
 Λίστα Εξοπλισμού
 
-Micro:bit v2 Starter Kit
+1 Micro:bit v2 Starter Kit
 
-Micro:bit GPIO Expansion Board
-Flame Sensor KY-026
+1 Micro:bit GPIO Expansion Board
+1 Flame Sensor KY-026
 
-Edison Robot
+1 Edison Robot
 
-PLA filament 1,75mm 1kg
+1 PLA filament 1,75mm 1kg
 
-Jumper Wires
+4 Jumper Wires
 
-Breadboard
+1 Breadboard
 
 
 
